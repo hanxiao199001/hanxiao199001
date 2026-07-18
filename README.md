@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **AI 原生全栈开发者 | Vibe Coding 深度实践者**
 
-金融 × 文旅实体经营出身，2025.11 起全职投入 AI 产品开发。10+ 个项目独立全栈交付，2 个上线正式运营。我相信：懂业务的人 + AI 工具链 = 一个人就是一支产品团队。
+金融 × 文旅实体经营出身，2024年起全职投入 AI 产品开发。10+ 个项目独立全栈交付，2 个上线正式运营。我相信：懂业务的人 + AI 工具链 = 一个人就是一支产品团队。
 
 🌐 上线运营中：[boss-mate.cn](https://boss-mate.cn)（AI 内容生产操作系统）｜ [wildtrip.com.cn](https://wildtrip.com.cn)（AI 旅行内容平台）
 
